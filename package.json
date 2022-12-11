@@ -1,0 +1,17 @@
+{
+  "name": "soutenance-cypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Scénario 1.cy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^12.0.2"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^7.6.0"
+  }
+}
